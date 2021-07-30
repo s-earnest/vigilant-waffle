@@ -1,3 +1,3 @@
 # vigilant-waffle
-Data Analysis Exercises
-Portfolio for Marketing Analysis project
+Data Analysis Portfolion online.
+
