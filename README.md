@@ -1,3 +1,3 @@
 # vigilant-waffle
-Data Analysis Portfolion online.
+Data Analysis task and portfolio online.
 
